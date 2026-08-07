@@ -160,7 +160,7 @@ PrepTrack-TeamLead/
 - Python 3
 - Git
 - GitHub
-- Visual Studio Code
+- AntiGravity
 - Markdown
 
 ---
