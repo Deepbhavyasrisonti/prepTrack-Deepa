@@ -69,22 +69,22 @@ The objectives of this project are:
 # Team Repository Directory
 
 | Sl.No | Member Name | GitHub Profile | PrepTrack Repository | Submission Status |
-|------:|----------------------------|----------------|----------------------|------------------|
+|------:|----------------------------|--------------------------------------------------------------|---------------------------------------------------------------------------------------------|----------------|
 | 1 | Deepa Bhavyasri Sonti | https://github.com/Deepbhavyasrisonti | https://github.com/Deepbhavyasrisonti/prepTrack-Deepa | ✅ Completed |
 | 2 | K Shamil | To be Updated | To be Updated | Pending |
-| 3 | Bharathi R | To be Updated | To be Updated | Pending |
+| 3 | Bharathi R | https://github.com/Bharathicode | https://github.com/Bharathicode/preptrack-bharathi | ✅ Completed |
 | 4 | T Uday Kiran | To be Updated | To be Updated | Pending |
-| 5 | P Jayasree | To be Updated | To be Updated | Pending |
-| 6 | S Mohan Prakash | To be Updated | To be Updated | Pending |
-| 7 | Mavuluru Varshini | To be Updated | To be Updated | Pending |
-| 8 | Satyabrata Patra | To be Updated | To be Updated | Pending |
-| 9 | Amogh | To be Updated | To be Updated | Pending |
-| 10 | Yaswanth Reddy Muddana | To be Updated | To be Updated | Pending |
-| 11 | Dhanush V | To be Updated | To be Updated | Pending |
-| 12 | Katragadda Bhasvita | To be Updated | To be Updated | Pending |
-| 13 | C Jaya Krishna | To be Updated | To be Updated | Pending |
-| 14 | Aishwarya Patil | To be Updated | To be Updated | Pending |
-| 15 | Mallepalle Sri Meghana | To be Updated | To be Updated | Pending |
+| 5 | P Jayasree | https://github.com/Jayyy-01 | https://github.com/Jayyy-01/PrepTrack_Jayasree | ✅ Completed |
+| 6 | S Mohan Prakash | https://github.com/mohan07-prog | https://github.com/mohan07-prog/preptrack-mohan | ✅ Completed |
+| 7 | Mavuluru Varshini | https://github.com/MavuluruVarshini28 | https://github.com/MavuluruVarshini28/preptrack-varshini | ✅ Completed |
+| 8 | Satyabrata Patra | https://github.com/Satys1232 | https://github.com/Satys1232/preptrack-satya | ✅ Completed |
+| 9 | Amogh | https://github.com/OneToucHA | https://github.com/OneToucHA/preptrack-Amogh | ✅ Completed |
+| 10 | Yaswanth Reddy Muddana | https://github.com/yaswanth607 | https://github.com/yaswanth607/preptrack-yaswanth | ✅ Completed |
+| 11 | Dhanush V | https://github.com/dhanushvadivel2006-ux | https://github.com/dhanushvadivel2006-ux/preptrack-Dhanush | ✅ Completed |
+| 12 | Katragadda Bhasvita | https://github.com/bhasvitak | https://github.com/bhasvitak/preptrack-bhasvita | ✅ Completed |
+| 13 | C Jaya Krishna | https://github.com/chowdamjayakrishna99-bot | https://github.com/chowdamjayakrishna99-bot/preptrack-jayakrishna | ✅ Completed |
+| 14 | Aishwarya Patil | https://github.com/Aishwarya240 | https://github.com/Aishwarya240/track_prep_aish | ✅ Completed |
+| 15 | Mallepalle Sri Meghana | https://github.com/Meghana7712 | https://github.com/Meghana7712/preptrack-meghana | ✅ Completed |
 
 ---
 
@@ -137,20 +137,20 @@ PrepTrack-TeamLead/
 │
 ├── Member Repositories
 │   ├── prepTrack-Deepa
-│   ├── prepTrack-KShamil
-│   ├── prepTrack-Bharathi
-│   ├── prepTrack-UdayKiran
-│   ├── prepTrack-Jayasree
-│   ├── prepTrack-MohanPrakash
-│   ├── prepTrack-Varshini
-│   ├── prepTrack-Satyabrata
-│   ├── prepTrack-Amogh
-│   ├── prepTrack-Yaswanth
-│   ├── prepTrack-Dhanush
-│   ├── prepTrack-Bhasvita
-│   ├── prepTrack-JayaKrishna
-│   ├── prepTrack-Aishwarya
-│   └── prepTrack-Meghana
+│   ├── preptrack-kshamil
+│   ├── preptrack-bharathi
+│   ├── preptrack-udaykiran
+│   ├── PrepTrack_Jayasree
+│   ├── preptrack-mohan
+│   ├── preptrack-varshini
+│   ├── preptrack-satya
+│   ├── preptrack-Amogh
+│   ├── preptrack-yaswanth
+│   ├── preptrack-Dhanush
+│   ├── preptrack-bhasvita
+│   ├── preptrack-jayakrishna
+│   ├── track_prep_aish
+│   └── preptrack-meghana
 ```
 
 ---
