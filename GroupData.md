@@ -73,7 +73,7 @@ The objectives of this project are:
 | 1 | Deepa Bhavyasri Sonti | https://github.com/Deepbhavyasrisonti | https://github.com/Deepbhavyasrisonti/prepTrack-Deepa | ✅ Completed |
 | 2 | K Shamil | https://github.com/KShamil200416 | https://github.com/KShamil200416/preptrack-shamil| ✅ Completed |
 | 3 | Bharathi R | https://github.com/Bharathicode | https://github.com/Bharathicode/preptrack-bharathi | ✅ Completed |
-| 4 | T Uday Kiran | To be Updated | To be Updated | Pending |
+| 4 | T Uday Kiran | https://github.com/Uday-piratehunter | https://github.com/Uday-piratehunter/preptrack-Uday-kiran |  ✅ Completed  |
 | 5 | P Jayasree | https://github.com/Jayyy-01 | https://github.com/Jayyy-01/PrepTrack_Jayasree | ✅ Completed |
 | 6 | S Mohan Prakash | https://github.com/mohan07-prog | https://github.com/mohan07-prog/preptrack-mohan | ✅ Completed |
 | 7 | Mavuluru Varshini | https://github.com/MavuluruVarshini28 | https://github.com/MavuluruVarshini28/preptrack-varshini | ✅ Completed |
@@ -315,7 +315,7 @@ Apart from developing my own PrepTrack application, I also coordinated the overa
 | Mavuluru Varshini | ✅ | ✅ | ✅ | ✅ | ✅ | Completed |
 | Satyabrata Patra | ✅ | ✅ | ✅ | ✅ | ✅ | Completed |
 | Amogh | ✅ | ✅ | ✅ | ✅ | ✅ | Completed |
-| Yaswanth Reddy Muddana | ✅ | ✅ | ✅ | ✅ | ✅ | Completed |
+| Yaswanth Reddy Muddana | ✅ | pending | ✅ | ✅ | ✅ | Completed |
 | Dhanush V | ✅ | ✅ | ✅ | ✅ | ✅ | Completed |
 | Katragadda Bhasvita | ✅ | ✅ | ✅ | ✅ | ✅ | Completed |
 | C Jaya Krishna | ✅ | ✅ | ✅ | ✅ | ✅ | Completed |
