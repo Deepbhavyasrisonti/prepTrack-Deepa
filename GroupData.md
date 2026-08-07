@@ -71,7 +71,7 @@ The objectives of this project are:
 | Sl.No | Member Name | GitHub Profile | PrepTrack Repository | Submission Status |
 |------:|----------------------------|--------------------------------------------------------------|---------------------------------------------------------------------------------------------|----------------|
 | 1 | Deepa Bhavyasri Sonti | https://github.com/Deepbhavyasrisonti | https://github.com/Deepbhavyasrisonti/prepTrack-Deepa | ✅ Completed |
-| 2 | K Shamil | To be Updated | To be Updated | Pending |
+| 2 | K Shamil | https://github.com/KShamil200416 | https://github.com/KShamil200416/preptrack-shamil| ✅ Completed |
 | 3 | Bharathi R | https://github.com/Bharathicode | https://github.com/Bharathicode/preptrack-bharathi | ✅ Completed |
 | 4 | T Uday Kiran | To be Updated | To be Updated | Pending |
 | 5 | P Jayasree | https://github.com/Jayyy-01 | https://github.com/Jayyy-01/PrepTrack_Jayasree | ✅ Completed |
