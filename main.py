@@ -1,6 +1,5 @@
 # ==================================================
 # PREPTRACK — BOILERPLATE CODE
-# Complete every section marked TODO.
 # ==================================================
 
 print("=" * 50)
@@ -11,7 +10,7 @@ print("=" * 50)
 # 1. COLLECT STUDENT DETAILS
 # --------------------------------------------------
 
-# TODO: Validate that the student name is not empty.
+# Validate that the student name is not empty.
 student_name = input("Enter student name: ")
 while not student_name:
     print("Student name cannot be empty")
@@ -21,13 +20,13 @@ registration_number = input("Enter registration number: ")
 graduation_year = int(input("Enter graduation year: "))
 graduation_eligible=(graduation_year>=2025 and graduation_year<=2027 )
 
-# TODO: Validate attendance between 0 and 100.
+# Validate attendance between 0 and 100.
 attendance = float(input("Enter attendance percentage: "))
 while attendance < 0 or attendance > 100:
     print("Invalid attendance percentage. Enter the value between 0 to 100")
     attendance = float(input("Enter attendance percentage: "))
 
-# TODO: Accept only yes or no.
+# Accept only yes or no.
 project_input = input(
     "Has the student completed the required project? Enter yes or no: "
 )
@@ -36,12 +35,12 @@ while project_input not in ["yes","no"]:
     project_input = input(
         "Has the student completed the required project? Enter yes or no: "
     )
-# TODO: Convert project_input into True or False.
+# Convert project_input into True or False.
 project_completed = False
 if project_input=="yes":
     project_completed=True
 
-# TODO: Accept only yes or no.
+# Accept only yes or no.
 profile_input = input(
     "Is the student profile verified? Enter yes or no: "
 )
@@ -50,7 +49,7 @@ while profile_input not in ["yes","no"]:
     profile_input = input(
         "Is the student profile verified? Enter yes or no: "
     )
-# TODO: Convert profile_input into True or False.
+# Convert profile_input into True or False.
 profile_verified = False
 if profile_input=="yes":
     profile_verified=True
@@ -91,7 +90,7 @@ first_critical_score = 0
 
 for day in range(1, 8):
 
-    # TODO: Use a while loop to accept only:
+    # Use a while loop to accept only:
     # -1 or a score between 0 and 100.
     while True:
         score = int(input(f"Enter Day {day} score from 0 to 100, " "or -1 for absent: "))
@@ -118,7 +117,7 @@ for day in range(1, 8):
         lowest_score_day=day
     
 
-    # TODO: Classify the score:
+    # Classify the score:
     # 75–100  -> Strong
     # 60–74   -> Satisfactory
     # 40–59   -> Needs Improvement
@@ -132,13 +131,13 @@ for day in range(1, 8):
     else:
         critical_days+=1
 
-    # TODO: Count passed and failed days.
+    # Count passed and failed days.
     if score >=50:
         passed_days+=1
     else:
         failed_days+=1
 
-    # TODO: Store only the first critical day and score.
+    # Store only the first critical day and score.
     if score < 40 and not critical_score_found:
         critical_score_found = True
         first_critical_day = day
@@ -149,7 +148,7 @@ for day in range(1, 8):
 # 4. CALCULATE THE AVERAGE
 # --------------------------------------------------
 
-# TODO: Prevent division by zero.
+# Prevent division by zero.
 if attempted_days > 0:
     average_score = total_score / attempted_days
 
@@ -185,7 +184,7 @@ placement_ready = (
 # 6. DETERMINE FINAL STATUS
 # --------------------------------------------------
 
-# TODO: Check conditions in this priority:
+# Check conditions in this priority:
 # 1. No practice attempted
 # 2. Critical score found
 # 3. Fewer than six attempts
@@ -278,7 +277,7 @@ print()
 print(f"Total Score            : {total_score}")
 print(f"Average Score          : {average_score:.2f}")
 
-# TODO: Display highest and lowest values only when
+# Display highest and lowest values only when
 # at least one practice was attempted.
 if attempted_days > 0:
     print(f"Highest Score          : {highest_score} (Day {highest_score_day})")
@@ -287,7 +286,7 @@ else:
     print("Highest Score          : Not available (no practice attempted)")
     print("Lowest Score           : Not available (no practice attempted)")
 
-# TODO: Display first critical details only when
+# Display first critical details only when
 # a critical score exists.
 if critical_score_found:
     print(f"First Critical Day     : {first_critical_day}")
